@@ -1,10 +1,5 @@
-<!--
-SEO title: ZidhuXD — 100 Magisk Modules for Rooted Android
-SEO description: A showcase of useful Magisk, Zygisk, LSPosed, KernelSU and root modules with short descriptions and direct GitHub links.
-SEO keywords: ZidhuXD, Magisk modules, best Magisk modules, rooted Android, Android root, Zygisk modules, LSPosed modules, KernelSU modules, Magisk root tools
--->
 
-# 100 Magisk Modules & Root Projects for Android
+# Best Magisk Modules & Root Projects for Android
 
 > A hand-picked showcase of useful Magisk modules, Zygisk frameworks, LSPosed modules, systemless tools, root utilities, audio mods, privacy tools, and Android customization projects.
 
